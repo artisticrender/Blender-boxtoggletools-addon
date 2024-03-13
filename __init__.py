@@ -33,7 +33,7 @@ from PIL import Image
 bl_info = {
     "name": "BoxProject Tools",
     "author": "Erik Selin",
-    "version": (1, 1),
+    "version": (1, 2),
     "blender": (4, 0, 2),
     "location": "Search, 'RotateImage' mapped to ALT+W, 'BoxToggle' mapped to ALT+Q",
     "description": "Rotates texture image maps and toggle Box project, note that this addon save imagefiles to disk.",
