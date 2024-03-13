@@ -23,6 +23,7 @@ Set the blend value to a hardcoded 0.2
 '''
 
 import bpy
+from pathlib import Path
 from PIL import Image
 
 
